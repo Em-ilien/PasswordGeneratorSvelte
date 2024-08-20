@@ -3,6 +3,10 @@
 	"license": "MIT",
 	"readme": "README.md",
 	"version": "1.0.0",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Em-ilien/PasswordGeneratorSvelte.git"
+	},
 	"author": {
 		"name": "Emilien Cosson",
 		"email": "emilien@em-ilien.fr"
