@@ -9,7 +9,7 @@ PasswordGeneratorSvelte is a Svelte component that allows for generating random 
 To install the library, use npm:
 
 ```bash
-npm install svelte-password-generator
+npm install password-generator-svelte
 ```
 
 ## Usage
@@ -18,7 +18,7 @@ Here is an example of using PasswordGeneratorSvelte:
 
 ```svelte
 <script>
-	import { PasswordGeneratorSvelte } from 'svelte-password-generator';
+	import { PasswordGeneratorSvelte } from 'password-generator-svelte';
 </script>
 
 <div>
